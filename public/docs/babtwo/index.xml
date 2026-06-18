@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial Bab 2 on ACSL | Mobile Computing System</title>
-    <link>http://localhost:1313/docs/babtwo/</link>
-    <description>Recent content in Tutorial Bab 2 on ACSL | Mobile Computing System</description>
+    <title>Tutorial BAB 2 on ACSL | Mobile Computing System</title>
+    <link>https://mcs.acsl.my.id/docs/babtwo/</link>
+    <description>Recent content in Tutorial BAB 2 on ACSL | Mobile Computing System</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Sep 2025 16:48:46 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/babtwo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcs.acsl.my.id/docs/babtwo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dinamis UI</title>
-      <link>http://localhost:1313/docs/babtwo/dinamisui/</link>
+      <link>https://mcs.acsl.my.id/docs/babtwo/dinamisui/</link>
       <pubDate>Sat, 13 Sep 2025 16:48:46 +0700</pubDate>
-      <guid>http://localhost:1313/docs/babtwo/dinamisui/</guid>
+      <guid>https://mcs.acsl.my.id/docs/babtwo/dinamisui/</guid>
       <description>&lt;p&gt;Pembelajaran yang akan dilakukan pada bab ini merupakan pembelajaran yang ditingkatkan lagi setelah praktikan mengetahui hal-hal mendasar terkait Flutter. Pada pembelajaran ini akan diajarkan terkait cara membuat tampilan aplikasi yang dinamis dengan menggunakan ListView.builder. UI pada aplikasi akan dibuat secara dinamis berdasarkan data yang tersedia. Gambarannya adalah jika ListView() pada bab 1 berisi widget-widget yang dibuat secara manual maka di bab ini akan mengisikan widget-widget di dalam ListView() dibentuk secara otomatis sesuai dengan data yang tersedia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prosedur Praktikum</title>
-      <link>http://localhost:1313/docs/babtwo/prosedurpraktikum2/</link>
+      <link>https://mcs.acsl.my.id/docs/babtwo/prosedurpraktikum2/</link>
       <pubDate>Sat, 13 Sep 2025 16:48:46 +0700</pubDate>
-      <guid>http://localhost:1313/docs/babtwo/prosedurpraktikum2/</guid>
-      <description>&lt;h2 id=&#34;tampilan-aplikasi&#34;&gt;Tampilan Aplikasi &lt;a href=&#34;#tampilan-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Berikut merupakan tampilan dari aplikasi yang akan dibentuk pada praktikum bab 2.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; justify-content: center; gap: 20px;&#34;&gt;&#xD;&#xA;    &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;http://localhost:1313/images/babTwo/Ba2-1.png&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;http://localhost:1313/images/babTwo/Ba2-2.png&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Gambar 2.1&lt;/b&gt; Tampilan Halaman Aplikasi yang Akan diimplementasikan &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Penjelasan terkait bagaimana cara aplikasi bekerja akan diterangkan oleh asisten yang mengajar.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementasi-aplikasi&#34;&gt;Implementasi Aplikasi &lt;a href=&#34;#implementasi-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dalam mengimplementasikan tampilan dari desain aplikasi di atas, terdapat beberapa langkah yang harus dilewati terlebih dahulu agar proses praktikum dapat berjalan dengan lancar dan terselesaikan sesuai dengan apa yang dituju. Langkah-langlah dalam pembuatan project baru sama seperti yang telah dilakukan pada praktikum pertemuan sebelumnya.&lt;/p&gt;</description>
+      <guid>https://mcs.acsl.my.id/docs/babtwo/prosedurpraktikum2/</guid>
+      <description>&lt;h2 id=&#34;tampilan-aplikasi&#34;&gt;Tampilan Aplikasi &lt;a href=&#34;#tampilan-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Berikut merupakan tampilan dari aplikasi yang akan dibentuk pada praktikum bab 2.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex; justify-content: center; gap: 20px;&#34;&gt;&#xD;&#xA;    &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://mcs.acsl.my.id/images/babTwo/Ba2-1.png&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div style=&#34;flex: 1; text-align: center;&#34;&gt;&#xD;&#xA;        &lt;img src=&#34;https://mcs.acsl.my.id/images/babTwo/Ba2-2.png&#34; style=&#34;max-width: 100%; height: auto;&#34;&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Gambar 2.1&lt;/b&gt; Tampilan Halaman Aplikasi yang Akan diimplementasikan &lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Penjelasan terkait bagaimana cara aplikasi bekerja akan diterangkan oleh asisten yang mengajar.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementasi-aplikasi&#34;&gt;Implementasi Aplikasi &lt;a href=&#34;#implementasi-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dalam mengimplementasikan tampilan dari desain aplikasi di atas, terdapat beberapa langkah yang harus dilewati terlebih dahulu agar proses praktikum dapat berjalan dengan lancar dan terselesaikan sesuai dengan apa yang dituju. Langkah-langlah dalam pembuatan project baru sama seperti yang telah dilakukan pada praktikum pertemuan sebelumnya.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

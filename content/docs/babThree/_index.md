@@ -1,6 +1,6 @@
 ---
 weight: 15
-title: "Tutorial Bab 3"
+title: "Tutorial BAB 3"
 description: "Authentication & Provider"
 icon: "Fingerprint"
 date: "2025-10-13T12:06:26+07:00"

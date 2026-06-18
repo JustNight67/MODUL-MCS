@@ -1,6 +1,6 @@
 ---
 weight: 28
-title: "Tutorial Bab 7"
+title: "Tutorial BAB 7"
 description: "Servo Controller (Backend - Golang)"
 icon: "Controller_Gen"
 date: "2025-09-13T16:48:46+07:00"

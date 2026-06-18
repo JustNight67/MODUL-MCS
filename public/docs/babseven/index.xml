@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial Bab 7 on ACSL | Mobile Computing System</title>
-    <link>http://localhost:1313/docs/babseven/</link>
-    <description>Recent content in Tutorial Bab 7 on ACSL | Mobile Computing System</description>
+    <title>Tutorial BAB 7 on ACSL | Mobile Computing System</title>
+    <link>https://mcs.acsl.my.id/docs/babseven/</link>
+    <description>Recent content in Tutorial BAB 7 on ACSL | Mobile Computing System</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Sep 2025 16:48:46 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/docs/babseven/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mcs.acsl.my.id/docs/babseven/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Servo Controller</title>
-      <link>http://localhost:1313/docs/babseven/servocontroller/</link>
+      <link>https://mcs.acsl.my.id/docs/babseven/servocontroller/</link>
       <pubDate>Sat, 13 Sep 2025 16:48:46 +0700</pubDate>
-      <guid>http://localhost:1313/docs/babseven/servocontroller/</guid>
+      <guid>https://mcs.acsl.my.id/docs/babseven/servocontroller/</guid>
       <description>&lt;p&gt;Pada praktikum MCS bab 7, praktikan akan membangun RESTFUL API yang digunakan untuk menggerakan servo. RESTFUL API akan melakukan pemantauan terhadap data yang tersimpan pada database. Jika terdapat perubahan data, maka microcontroller akan menghasilkan output untuk menggerakkan servo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tujuan&#34;&gt;Tujuan &lt;a href=&#34;#tujuan&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;table class=&#34;table table-striped&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;TUJUAN&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;PENJELASAN&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Membangun database dengan bahasa pemrograman Golang&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;p style=&#34;text-align: justify;&gt;&#34;&gt;Dalam bab ini, praktikan akan diajarkan cara membuat sebuah database dengan menggunakan bahasa pemrograman Golang.&lt;/p&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Memahami cara memantau database dari perubahan kondisi servo&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;p style=&#34;text-align: justify;&gt;&#34;&gt;Pada bab ini, database digunakan sebagai media untuk memantau perubahan kondisi servo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prosedur Praktikum</title>
-      <link>http://localhost:1313/docs/babseven/prosedurpraktikum7/</link>
+      <link>https://mcs.acsl.my.id/docs/babseven/prosedurpraktikum7/</link>
       <pubDate>Sat, 13 Sep 2025 16:48:46 +0700</pubDate>
-      <guid>http://localhost:1313/docs/babseven/prosedurpraktikum7/</guid>
+      <guid>https://mcs.acsl.my.id/docs/babseven/prosedurpraktikum7/</guid>
       <description>&lt;h2 id=&#34;prosedur-praktikum&#34;&gt;Prosedur Praktikum &lt;a href=&#34;#prosedur-praktikum&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dalam membangun REST API pada praktikum ini, terdapat beberapa langkah yang harus dilalui terlebih dahulu, sebelum nantinya melakukan pembuatan kode untuk REST API. Berikut merupakan langkah-langkah yang harus dilalui:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Memeriksa seluruh kebutuhan yang diperlukan&lt;/p&gt;&#xA;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Bahasa Pemrograman Golang&lt;/b&gt; (Version 1.23 atau di atasnya)&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Visual Studio Code&lt;/b&gt; (Extension Golang dan Code Runner)&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Postgre SQL&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Postman&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Untuk memastikan apakah bahasa pemrograman golang telah terinstall pada perangkat, bukalah command prompt dan ketikan perintah go version. Jika perangkat telah terinstall dengan bahasa golang, maka tampilan dari command prompt akan terlihat, seperti pada Gambar 6.4.&lt;/p&gt;</description>
     </item>
   </channel>
