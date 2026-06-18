@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Briefing on ACSL | Mobile Computing System</title>
+    <link>http://localhost:1313/docs/briefing/</link>
+    <description>Recent content in Briefing on ACSL | Mobile Computing System</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 May 2026 11:44:30 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/docs/briefing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perangkat Android</title>
+      <link>http://localhost:1313/docs/briefing/perangkatandroid/</link>
+      <pubDate>Fri, 15 May 2026 11:44:30 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/perangkatandroid/</guid>
+      <description>&lt;p&gt;Pada bab briefing, praktikan akan diperkenalkan mengenai hal-hal mendasar yang berkaitan dengan proses praktikum Mobile Computing System (MCS), seperti materi, bahasa pemrograman, framework, dan tools yang digunakan selama praktikum berlangsung. Selain itu, pada pertemuan ini, praktikan juga akan diajarkan bagaimana caranya menginstall berbagai keperluan yang dibutuhkan selama praktikum.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tujuan&#34;&gt;Tujuan &lt;a href=&#34;#tujuan&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;table class=&#34;table table-striped&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;TUJUAN&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;PENJELASAN&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Memahami sistem operasi android dan sejarah perkembangannya&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;p style=&#34;text-align: justify;&gt;&#34;&gt;Pada bab briefing, praktikan akan diberikan penjelasan singkat mengenai sistem operasi android, seperti apa itu android, asal mula android, dan perkembangan dari sistem operasi android.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bahasa Pemrograman</title>
+      <link>http://localhost:1313/docs/briefing/bahasapemrograman/</link>
+      <pubDate>Fri, 15 May 2026 11:44:29 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/bahasapemrograman/</guid>
+      <description>&lt;h2 id=&#34;dart&#34;&gt;Dart &lt;a href=&#34;#dart&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Dart merupakan bahasa pemrograman open source berorientasi objek yang dikembangkan oleh Lars Bark dan Kasper Lund di Google pada tahun 2011 yang kemudian diresmikan pada November 2013. Bahasa pemrograman ini awalnya dirancang khusus untuk pengembangan aplikasi website. Namun, seiring dengan berkembangnya zaman bahasa pemrograman ini telah dapat digunakan untuk mengembangkan berbagai aplikasi, seperti perangkat mobile, Internet of Things (IoT), game, server, desktop, dan lain-lain.&lt;/p&gt;&#xA;&lt;p&gt;Bahasa pemrograman ini mengikuti gaya penulisan C-style yang membuat sintaks dari bahasa ini mirip dengan sintaks yang ada pada beberapa bahasa pemrograman yang berorientasi objek lainnya, seperti Java, C#, JavaScript, Kotlin, dan lain-lain (Swathiga, 2022). Terdapat beberapa fitur yang disediakan oleh bahasa pemrograman ini, yang membuat bahasa pemrograman ini menjadi populer dan banyak digunakan, antara lain:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Framework Open-source</title>
+      <link>http://localhost:1313/docs/briefing/frameworkopensource/</link>
+      <pubDate>Fri, 15 May 2026 11:44:28 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/frameworkopensource/</guid>
+      <description>&lt;h2 id=&#34;flutter&#34;&gt;Flutter &lt;a href=&#34;#flutter&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Flutter merupakan sebuah &lt;em&gt;framework open-source&lt;/em&gt; yang dikembangkan oleh perusahaan ternama bernama Google pada tahun 2015. Flutter dirancang khusus bagi para developer yang ingin mengembangkan aplikasi mobile berbasis Android atau iOS. Selain itu, Flutter juga dapat digunakan untuk mengembangkan aplikasi berbasis website hingga desktop. Framework ini dapat digunakan dengan mudah oleh programmer yang memiliki pengetahuan terkait bahasa pemrograman dart serta konsep widget dimana seluruh elemen yang terlihat pada aplikasi, seperti text, button, image, dan elemen-elemen lainnya merupakan sebuah widget.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DatabaseMCS</title>
+      <link>http://localhost:1313/docs/briefing/databasemcs/</link>
+      <pubDate>Fri, 15 May 2026 11:44:27 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/databasemcs/</guid>
+      <description>&lt;h2 id=&#34;firebase&#34;&gt;Firebase &lt;a href=&#34;#firebase&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Firebase merupakan sebuah layanan backend yang disediakan oleh Google yang dapat membantu developer dalam mengembangkan aplikasi miliknya. Firebase merupakan platform yang bersifat realtime, artinya ketika terjadi perubahan data pada firebase, maka informasi yang ditampilkan pada setiap perangkat yang terhubung dengan firebase akan diupdate pada saat perubahan data terjadi.&lt;/p&gt;&#xA;&lt;p&gt;Firebase didirikan oleh Andrew Lee dan James Tamplin pada tahun 2011. Pada saat itu firebase hanya menyediakan satu layanan yang dapat digunakan oleh para pengguna, yakni realtime database. Layanan tersebut merupakan layanan database NoSQL yang seluruh datanya disimpan ke dalam format JSON dan datanya akan disesuaikan secara realtime ke setiap user yang terhubung dengan firebase. Kemudian pada Oktober 2014, firebase diakuisisi oleh Google dan berkembang menjadi layanan pengembangan aplikasi. Saat ini firebase telah memiliki beberapa layanan yang dapat digunakan dalam mengembangkan aplikasi, seperti realtime database, cloud firestore, cloud storage, firebase authentication, firebase analytics, firebase hosting, dan masih banyak lagi layanan yang disediakan oleh firebase.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aplikasi Pemrograman</title>
+      <link>http://localhost:1313/docs/briefing/aplikasipemrograman/</link>
+      <pubDate>Fri, 15 May 2026 11:44:26 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/aplikasipemrograman/</guid>
+      <description>&lt;h2 id=&#34;android-studio&#34;&gt;Android Studio &lt;a href=&#34;#android-studio&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Android studio merupakan software Integrated Development Environment (IDE) resmi yang digunakan dalam pengembangan aplikasi Android. Software ini hadi menggantikan Eclipse sebagai IDE pengembangan aplikasi android sejak perilisannya pada tahun 2014. Software ini bersifat open source dan dapat diunduh di berbagai sistem operasi yang ada, seperti windows, Mac OS, dan linux.&lt;/p&gt;&#xA;&lt;p&gt;Software ini dilengkapi dengan intellegent code editor yang mampu mengolah dan menganalisis kode secara lengkap yang menjadikan developer semakin produktif. Selain itu, Android Studio dilengkapi dengan code templates dan Github integration yang memudahkan develover Android dalam mengembangkan aplikasi mereka dari sample-sample kode yang telah disediakan ataupun mengimport dari Github. Android Studio dilengkapi dengan emulator yang mencakup semua devices, baik ukuran maupun bentuk. Keunggulan tersebut memudahkan developer untuk melihat hasil project yang telah dikembangkan dari berbagai device yang ada.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Internet of Things</title>
+      <link>http://localhost:1313/docs/briefing/internetofthings/</link>
+      <pubDate>Fri, 15 May 2026 11:44:25 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/internetofthings/</guid>
+      <description>&lt;h2 id=&#34;internet-of-things&#34;&gt;Internet of Things &lt;a href=&#34;#internet-of-things&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Internet of Things (IoT) merupakan sebuah konsep yang memungkinkan terhubungnya perangkat dengan lainnya melalui internet untuk melakukan aktivitas tertentu. Cara kerja IoT pada dasarnya membutuhkan 3 komponen, yaitu sensor, gateway dan cloud sehingga melibatkan pencarian, pengolahan dan pengiriman Awalnya sensor mengambil dan mengumpulkan data yang kemudian akan ditransmisikan ke cloud menggunakan gateway. Gateway dari arah lain juga dapat menjadi trigger bagi output perangkat IoT itu sendiri, seperti menghidupkan atau mematikan. Contoh implementasi dari cara kerja IoT dapat dilihat pada Gambar B.1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalasi dan Setup Software Praktikum</title>
+      <link>http://localhost:1313/docs/briefing/instalasidansetupsoftwarepraktikum/</link>
+      <pubDate>Fri, 15 May 2026 11:44:25 +0700</pubDate>
+      <guid>http://localhost:1313/docs/briefing/instalasidansetupsoftwarepraktikum/</guid>
+      <description>&lt;h2 id=&#34;instalasi-dan-setup-flutter-sdk&#34;&gt;Instalasi dan Setup Flutter SDK &lt;a href=&#34;#instalasi-dan-setup-flutter-sdk&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Langkah pertama yang harus dilakukan agar framework Flutter dapat digunakan untuk mengembangkan sebuah software adalah melakukan instalasi terhadap Flutter SDK. Berikut merupakan langkah-langkah dalam proses instalasi Flutter SDK:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Bukalah link berikut untuk mendownload Flutter SDK: &lt;a href=&#34;https://docs.flutter.dev/install/archive&#34; rel=&#34;external&#34; target=&#34;_blank&#34;&gt;https://docs.flutter.dev/install/archive&lt;svg width=&#34;16&#34; height=&#34;16&#34; viewBox=&#34;0 0 24 24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M14 5c-.552 0-1-.448-1-1s.448-1 1-1h6c.552 0 1 .448 1 1v6c0 .552-.448 1-1 1s-1-.448-1-1v-3.586l-7.293 7.293c-.391.39-1.024.39-1.414 0-.391-.391-.391-1.024 0-1.414l7.293-7.293h-3.586zm-9 2c-.552 0-1 .448-1 1v11c0 .552.448 1 1 1h11c.552 0 1-.448 1-1v-4.563c0-.552.448-1 1-1s1 .448 1 1v4.563c0 1.657-1.343 3-3 3h-11c-1.657 0-3-1.343-3-3v-11c0-1.657 1.343-3 3-3h4.563c.552 0 1 .448 1 1s-.448 1-1 1h-4.563z&#34;/&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
