@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial BAB 8 on ACSL | Mobile Computing System</title>
-    <link>https://mcs.acsl.my.id/docs/babeight/</link>
+    <link>http://localhost:1313/docs/babeight/</link>
     <description>Recent content in Tutorial BAB 8 on ACSL | Mobile Computing System</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 13 Sep 2025 16:48:46 +0700</lastBuildDate>
-    <atom:link href="https://mcs.acsl.my.id/docs/babeight/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/babeight/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Card Reader &amp; Servo Controller</title>
-      <link>https://mcs.acsl.my.id/docs/babeight/cardservo/</link>
+      <link>http://localhost:1313/docs/babeight/cardservo/</link>
       <pubDate>Sat, 13 Sep 2025 16:48:46 +0700</pubDate>
-      <guid>https://mcs.acsl.my.id/docs/babeight/cardservo/</guid>
+      <guid>http://localhost:1313/docs/babeight/cardservo/</guid>
       <description>&lt;p&gt;Pada praktikum MCS bab 8, praktikan akan membangun sebuah aplikasi yang dapat mengontrol servo dan melihat data id kartu yang masuk ke database melalui sensor Radio Frequency Identification (RFID). Agar dapat mengontrol servo dan membaca id kartu yang masuk, kita akan mengonsumsi data API yang telah dibuat pada pertemuan praktikum bab 6 dan bab 7.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tujuan&#34;&gt;Tujuan &lt;a href=&#34;#tujuan&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;table class=&#34;table table-striped&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;TUJUAN&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;strong&gt;PENJELASAN&lt;/strong&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;Mengetahui cara mengontrol servo menggunakan kartu RFID&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;p style=&#34;text-align: justify;&gt;&#34;&gt;Pada bab ini, praktikan akan dijelaskan mengenai bagaimana cara untuk menggerakan servo menggunakan kartu RFID.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prosedur Praktikum</title>
-      <link>https://mcs.acsl.my.id/docs/babeight/prosedurpraktikum8/</link>
+      <link>http://localhost:1313/docs/babeight/prosedurpraktikum8/</link>
       <pubDate>Sat, 13 Sep 2025 16:48:46 +0700</pubDate>
-      <guid>https://mcs.acsl.my.id/docs/babeight/prosedurpraktikum8/</guid>
-      <description>&lt;h2 id=&#34;tampilan-aplikasi&#34;&gt;Tampilan Aplikasi &lt;a href=&#34;#tampilan-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;d-flex justify-content-center w-60&#34;&gt;&#xD;&#xA;&lt;img src=&#34;https://mcs.acsl.my.id/images/babEight/Ba8-1.png&#34; alt=&#34;Gambar 8.1 - Tampilan Halaman Aplikasi yang Akan diimplementasikan&#34; class=&#34;img-fluid mb-3 responsive-img&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Gambar 8.1&lt;/b&gt; Tampilan Halaman Aplikasi yang Akan diimplementasikan&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Penjelasan terkait bagaimana cara aplikasi bekerja akan diterangkan oleh asisten yang mengajar.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementasi-aplikasi&#34;&gt;Implementasi Aplikasi &lt;a href=&#34;#implementasi-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Implementasi aplikasi dilakukan dalam 2 lingkup berbeda, yakni lingkup pembangunan tampilan aplikasi menggunakan Flutter dan lingkup konfigurasi terhadap sensor yang digunakan. Sensor yang digunakan pada praktikum ini, antara lain servo dan RFID.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/babeight/prosedurpraktikum8/</guid>
+      <description>&lt;h2 id=&#34;tampilan-aplikasi&#34;&gt;Tampilan Aplikasi &lt;a href=&#34;#tampilan-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;d-flex justify-content-center w-60&#34;&gt;&#xD;&#xA;&lt;img src=&#34;http://localhost:1313/images/babEight/Ba8-1.png&#34; alt=&#34;Gambar 8.1 - Tampilan Halaman Aplikasi yang Akan diimplementasikan&#34; class=&#34;img-fluid mb-3 responsive-img&#34;&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&lt;b&gt;Gambar 8.1&lt;/b&gt; Tampilan Halaman Aplikasi yang Akan diimplementasikan&lt;/p&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Penjelasan terkait bagaimana cara aplikasi bekerja akan diterangkan oleh asisten yang mengajar.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;implementasi-aplikasi&#34;&gt;Implementasi Aplikasi &lt;a href=&#34;#implementasi-aplikasi&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Implementasi aplikasi dilakukan dalam 2 lingkup berbeda, yakni lingkup pembangunan tampilan aplikasi menggunakan Flutter dan lingkup konfigurasi terhadap sensor yang digunakan. Sensor yang digunakan pada praktikum ini, antara lain servo dan RFID.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

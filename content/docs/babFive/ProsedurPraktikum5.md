@@ -29,6 +29,8 @@ Berikut merupakan tampilan dari aplikasi yang akan dibentuk pada praktikum bab 5
 
 Dalam mengimplementasikan tampilan dari desain aplikasi di atas, terdapat beberapa langkah yang harus dilewati terlebih dahulu agar proses praktikum dapat berjalan dengan lancar dan terselesaikan sesuai dengan apa yang dituju. Sebelum membuat project flutter yang baru, praktikan diharapkan untuk membuat akun Thingspeak terlebih dahulu pada halaman website **https://thingspeak.mathworks.com/**. Kemudian, daftarkan email masing-masing pada halaman website tersebut.
 
+
+
 <div class="d-flex justify-content-center w-60">
 <img src="/images/babFive/Ba5-6.png" alt="Gambar 5.5 - Tampilan Halaman Website Thingspeak" class="img-fluid mb-3 responsive-img">
 </div>
@@ -175,6 +177,8 @@ Pada praktikum ini, kita menggunakan package **DIO** untuk melakukan komunikasi 
 
 Berikutnya tambahkan folder baru bernama **assets** pada root project dan tambahkan beberapa gambar ke dalam folder tersebut.
 
+{{< alert context="info" text="Silahkan download gambar BAB 5 melalui [link ini](https://drive.google.com/drive/u/3/folders/1nRZpn_jf6hIT3IbuCarAHwRwkPfl2pid)." />}}
+
 <div class="d-flex justify-content-center w-60">
 <img src="/images/babFive/Ba5-23.png" alt="Gambar 5.22 - Gambar pada Folder Assets" class="img-fluid mb-3 responsive-img">
 </div>
@@ -189,7 +193,7 @@ Setelah menambahkan gambar, bukalah kembali file pubspec.yaml dan carilah baris 
 
 <p style="text-align: center;"><b>Gambar 5.23</b> Tampilan Baris Assets pada Pubspec.yaml</p>
 
-Jika sudah menghilangkan comment tersebut, lakukanlah pub get untuk memperbarui hasil konfigurasi. Jika sudah, bukalah file **app_provider.dart** dan masukkan kode program berikut:
+Jika sudah menghilangkan comment tersebut, lakukanlah **pub get** untuk memperbarui hasil konfigurasi. Jika sudah, bukalah file **app_provider.dart** dan masukkan kode program berikut:
 
 ```dart
 import 'package:flutter/material.dart';

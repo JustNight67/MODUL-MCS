@@ -147,6 +147,8 @@ Setelah user baru berhasil dibuat, langkah selanjutnya yang dilakukan adalah mel
 
 Setelah file firebase_options.dart muncul, tambahkan 4 depedencies baru, yakni **firebase_core, firebase_auth, provider** dan **lottie** ke dalam file pubspec.yaml pada bagian depedencies. Selain itu, hilangkan komentar pada bagian **assets:** dan ubahlah path yang ada pada bagian **assets:** menjadi seperti pada Gambar 3.16.
 
+{{< alert context="info" text="Code Untuk **JSON** silahkan di copy melalui [link ini](https://drive.google.com/drive/u/3/folders/12s7k5sbgOx_zd6swqNLMVndkOyZXtNUI)." />}}
+
 <div class="d-flex justify-content-center w-60">
 <img src="/images/babThree/Ba3-18.png" alt="Gambar 3.16 - Package yang digunakan" class="img-fluid mb-3 responsive-img">
 </div>
@@ -223,5 +225,3 @@ Berikutnya, masuklah ke dalam file **main.dart** dan ubahlah kode di dalamnya de
 Dalam file **main.dart** terdapat penambahan terhadap function main() dan class MyApp. Function main() diubah menjadi bentuk asynchronous yang di dalamnya terdapat kode program** WidgetsFlutterBinding.ensureInitialized();** yang akan memastikan bahwa seluruh widget yang akan digunakan telah selesai diinisialisasi dengan baik. Kemudian di bawahnya terdapat kode program await **Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform)** yang akan membuat flutter menunggu terlebih dahulu sampai firebase berhasil terinisialisasi.
 
 Kemudian class **MyApp** akan mengembalikan widget MultiProvider yang memungkinkan penggunaan beberapa provider. Provider yang akan digunakan pada praktikum ini didefinisikan pada properti **providers:** yang tersimpan dalam bentuk list. Dalam praktikum ini didefinisikan **ChangeNotifierProvider** yang mengembalikan class AppProvider() yang mengextends ChangeNotifier. ChangeNotifierProvider menyediakan instance dari class AppProvider yang akan digunakan pada aplikasi sebagai *state management*.
-
-{{< alert context="info" text="Code Untuk code **JSON** silahkan di copy melalui [link ini](https://github.com/Oneday37/MCS_PTA2526_COPY_CODE/blob/main/mcs_bab_3/assets/lottie_failed_animation.json)." />}}
