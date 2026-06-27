@@ -68,6 +68,42 @@ ModulMcs:
       buttonText: "Download"
       buttonLink: "https://drive.google.com/file/d/1A3qFmZRf96d_4msepiQlEXEYcug8BbCV/view?usp=sharing"
 
+# Aplikasi MCS
+
+AplikasiMcs:
+  enable: true
+  weight: 16
+  template: aplikasi mcs
+
+  title: Aplikasi Praktikum Mobile Computing System
+  subtitle: Pengembangan modul dalam bentuk web digital menjadi solusi dokumentasi modern yang dinamis, responsif, dan mudah diakses kapan pun. Namun kita tak luput yang namanya dokumentasi praktikum secara fisik.
+
+  items:
+    - title: "Android Studio"
+      imagePath:  "/images/screenshots/android_studio_icon.webp"
+      buttonText: "Download"
+      buttonLink: "https://developer.android.com/studio"
+    
+    - title: "Visual Studio Code"
+      imagePath:  "/images/screenshots/visual_studio_code_icon.webp"
+      buttonText: "Download"
+      buttonLink: "https://code.visualstudio.com/download?_exp_download=fb315fc982"
+
+    - title: "Golang"
+      imagePath:  "/images/screenshots/golang_icon.webp"
+      buttonText: "Download"
+      buttonLink: "https://go.dev/doc/install"
+
+    - title: "PostgreSQL"
+      imagePath:  "/images/screenshots/postgre_sql_icon.webp"
+      buttonText: "Download"
+      buttonLink: "https://www.enterprisedb.com/downloads/postgres-postgresql-downloads"
+
+    - title: "Postman"
+      imagePath:  "/images/screenshots/postman_icon.webp"
+      buttonText: "Download"
+      buttonLink: "https://www.postman.com/downloads/"
+
 # Feature Grid
 featureGrid:
   enable: true
