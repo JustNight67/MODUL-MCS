@@ -14,10 +14,10 @@ Berikut merupakan tampilan dari aplikasi yang akan dibentuk pada praktikum bab 4
 
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="flex: 1; text-align: center;">
-        <img src="/images/babFour/Ba4-2.png" style="max-width: 100%; height: auto;">
+        <img src="/images/babFour/Ba4-2.png" style="max-width: 60%; height: auto;">
     </div>
     <div style="flex: 1; text-align: center;">
-        <img src="/images/babFour/Ba4-3.png" style="max-width: 100%; height: auto;">
+        <img src="/images/babFour/Ba4-3.png" style="max-width: 60%; height: auto;">
     </div>
 </div>
 
